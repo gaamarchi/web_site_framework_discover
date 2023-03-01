@@ -10,7 +10,7 @@ demonstration
 
 code used to resolve a flag of the [tryhackme](https://tryhackme.com)  
 `curl https://static-labs.tryhackme.cloud/sites/favicon/images/favicon.ico -o /desktop/favicon.ico`  
-`python framework_discorver.py /desktop/favicon.ico`  
+`python framework_discover.py /desktop/favicon.ico`  
   
 however if the file with the hash is damaged or want to update it use the command within the project folder  
 `python scrapping.py`
